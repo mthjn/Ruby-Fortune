@@ -8,7 +8,7 @@ class Heyho
   cookies = ["“Welcome” is a powerful word.",
     "A dubious friend may be an enemy in camouflage.",
     "A feather in the hand is better than a bird in the air. (2)",
-    "A fresh start will put you on your way.",
+    "A fresh start will put you on your way.",  # did it?
     "A friend asks only for your time not your money.",
     "A friend is a present you give yourself.",
     "A gambler not only will lose what he has, but also will lose what he doesn’t have.",
